@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>C语言的部分知识</title>
+      <link href="/2023/05/11/2023-05-11-C%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E9%A2%98/"/>
+      <url>/2023/05/11/2023-05-11-C%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、选择题"><a href="#一、选择题" class="headerlink" title="一、选择题"></a>一、选择题</h2><p>1、下列叙述中正确的是                                 【    】<br>A.C语言程序将从源程序中第一个函数开始执行<br>B.可以在程序中由用户指定任意一个函数作为主函数，程序将从此开始执行<br>C.C语言规定必须用 main 作为主函数名，程序将从此开始执行，在此结束<br>D.main 可作为用户标识符，用以命名任意一个函数作为主函数<br>2、下列叙述中错误的是                                 【    】<br>A. 计算机不能直接执行用 C 语言编写的源程序<br>B. C 程序经编译后，生成后缀为.obj 的文件是一个二进制文件<br>C. 后缀为.obj 的文件，经连接程序生成后缀为.exe 的文件是一个二进制文件<br>D. 后缀为.obj 和.exe 的二进制文件都可以直接运行<br>3、C语言中基本的数据类型包括                       【    】<br>A. 整型、实型、逻辑型<br>B. 整型、实型、字符型<br>C. 整型、字符型、逻辑型<br>D. 整型、实型、逻辑型、字符型</p><h2 id="二、程序阅读题"><a href="#二、程序阅读题" class="headerlink" title="二、程序阅读题"></a>二、程序阅读题</h2><p>1、下列程序段的输出结果是_____________<br>#include&lt;stdio.h&gt;<br>int main( )<br>{    double  a=5;<br>int  b;<br>       b=a/2;<br>a=a*b;<br>       printf(“%.2f,%d\n”,a,b);<br>return 0;        }</p><p>2、下面程序段的输出结果是_____________<br>int a=0, b=0, x=5;<br>if(!a)  x–;<br>else x++;<br>printf(“%d “, x);<br>    if(b=1) x=6;<br>else  x=7;<br>printf(“%d”, x);</p><p>3、运行下面程序段，输出结果是_____________<br>#include &lt;stdio.h&gt;<br>int main()<br>{<br>    int a,b,c=4396;<br>    a=c/100%9;<br>    b=(-1)&amp;&amp;(5);<br>    printf(“%d,%d\n”,a,b);<br>    return 0;<br>}</p><h2 id="编程题"><a href="#编程题" class="headerlink" title="编程题"></a>编程题</h2><p>1、输入一个三位数的正整数n，计算并输出其每位数字之和。<br>   例如：输入321，输出6</p><p>2、输入一个整数n，计算数列1+1/3+1/5+1/7的之和，输出结果。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>求职简历投递前需要注意什么</title>
       <link href="/2023/05/11/2023-05-11-%E5%85%B3%E4%BA%8E%E6%B1%82%E8%81%8C/"/>
       <url>/2023/05/11/2023-05-11-%E5%85%B3%E4%BA%8E%E6%B1%82%E8%81%8C/</url>
